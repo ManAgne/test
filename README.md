@@ -1,7 +1,17 @@
 # Mano pirmoji GIT repozitorija
 
+Ši repozitorija skirta tam, kad išmokti naudotis **projektų versijavimo kontrolės komandinės eilutės sąsaja - GIT CLI**. Tam jums reikės parsisiųsti ir įsirašyti:
+https://git-scm.com/downloads
+
 ## Repositorijos pasiuntimas
-    git clone <repozitorijos-nuoroda>
+
+1. Atsidarykite GIT CLI (GIT bash).
+2. Naudodamiesi komanda <cd> pakeistkite savo darbinę kategoriją į tą, kurioje norite parsisiųsti repozitoriją
+3. Parsiųskite repozitoriją:
+    git clone <repozitorijos-nuoroda> (i.e. https://github.com/ManAgne/test)
+4. Pakeiskite darbinę kategoriją į parsiųstos repozitorijos kategoriją
+    cd test
+    
 
 ## Pagrindinės komandos
     git add -> failų paruošimas patvirtinimui
