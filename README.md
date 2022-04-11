@@ -19,7 +19,7 @@ https://git-scm.com/downloads
         **git add .** -> Prideda visus pakitusius failus
 
 - **git diff** -> skirtumas tarp dviejų failų, ar dviejų to paties failo versijų
-    - **git diff &lt;failo pavadinimas&gt;** -> failo nurodytu pavadinimu pakitmai nuo paskutinio commit'o
+    - **git diff &lt;failo-pavadinimas&gt;** -> failo nurodytu pavadinimu pakitmai nuo paskutinio commit'o
 
 - **git status** -> parodo pakitusių failų būseną
 
